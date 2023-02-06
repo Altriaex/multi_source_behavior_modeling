@@ -1,6 +1,6 @@
 # Behavior Estimation from Multi-Source Data for Offline Reinforcement Learning
 
-This is the official code for our AAAI 2023 paper _Behavior Estimation from Multi-Source Data for Offline Reinforcement Learning_. The code is developed from the [D4RL_Evaluation repository](https://github.com/Farama-Foundation/D4RL-Evaluations). If you find it useful for your research, please kindly cite our paper using:
+This is the official code for our AAAI 2023 paper _Behavior Estimation from Multi-Source Data for Offline Reinforcement Learning_. A preprint version of this paper is available on [arXiv](https://arxiv.org/abs/2211.16078), and a video is available on [YouTube](https://youtu.be/T_yLCgJ5a7Q). The code is developed from the [D4RL_Evaluation repository](https://github.com/Farama-Foundation/D4RL-Evaluations). If you find it useful for your research, please kindly cite our paper using:
 
 ```
 @inproceedings{behavior_estimate,
